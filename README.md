@@ -1,7 +1,7 @@
 # Plato's Pizza Sales & Operational Analytics
 
 ## Project Overview
-This portfolio project analyzes a full year of transactional sales data from a fictitious artisanal pizzeria (Plato's Pizza). The objective is to extract actionable business insights to optimize kitchen staffing, identify high-margin menu items, and understand seasonal revenue trends. 
+This project analyzes a full year of transactional sales data from a fictitious artisanal pizzeria (Plato's Pizza). The objective is to extract actionable business insights to optimize kitchen staffing, identify high-margin menu items, and understand seasonal revenue trends. 
 
 **Tech Stack:** PostgreSQL, pgAdmin, SQL Window Functions, Common Table Expressions (CTEs), Aggregations, and Date/Time formatting.
 
