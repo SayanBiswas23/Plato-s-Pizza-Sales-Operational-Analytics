@@ -17,6 +17,7 @@ The dataset consists of four related tables:
 ### 1. What are our peak operating windows?
 **Insight:** Order volume predictably spikes during lunch (12:00 PM – 1:00 PM) and dinner (5:00 PM – 7:00 PM), with Thursday through Saturday driving the highest continuous volume.
 **Recommendation:** Shift part-time kitchen prep staff to 11:00 AM – 2:00 PM windows on weekends to ensure adequate inventory for the dinner rush.
+https://github.com/SayanBiswas23/Plato-s-Pizza-Sales-Operational-Analytics/blob/main/sql/peak-opertating_hours.png
 
 ### 2. How do categories contribute to total revenue?
 **Insight:** The *Classic* pizza category drives the bulk of the unit volume, but the *Chicken* and *Supreme* categories command a higher price point, heavily influencing the Average Order Value (AOV).
