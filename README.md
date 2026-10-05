@@ -22,6 +22,7 @@ https://github.com/SayanBiswas23/Plato-s-Pizza-Sales-Operational-Analytics/blob/
 ### 2. How do categories contribute to total revenue?
 **Insight:** The *Classic* pizza category drives the bulk of the unit volume, but the *Chicken* and *Supreme* categories command a higher price point, heavily influencing the Average Order Value (AOV).
 **Recommendation:** Introduce combo bundles pairing high-margin *Classic* baseline items with smaller, premium *Chicken* pizzas to increase the median basket size.
+https://github.com/SayanBiswas23/Plato-s-Pizza-Sales-Operational-Analytics/blob/main/sql/revenue-pct-contribution.png
 
 ### 3. What is the baseline order sizing?
 **Insight:** While total annual revenue is substantial, the median basket contains only a few items, indicating primarily individual or small-group dining rather than large catering events.
